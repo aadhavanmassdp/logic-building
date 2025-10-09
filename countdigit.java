@@ -11,3 +11,4 @@ public class CountDigits {
         System.out.println("Total digits: " + count);
     }
 }
+//Total digits: 5
