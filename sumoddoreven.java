@@ -14,3 +14,5 @@ public class SumEvenOdd {
         System.out.println("Sum of Odd Numbers: " + oddSum);
     }
 }
+//Sum of Even Numbers: 6
+//Sum of Odd Numbers: 9
