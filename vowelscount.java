@@ -12,3 +12,4 @@ public class CountVowels {
          System.out.println("Number of vowels: " + count);
     }
 }
+//output: Number of vowels: 3
