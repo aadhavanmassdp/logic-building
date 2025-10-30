@@ -19,3 +19,8 @@ public class CountPosNegZero {
         System.out.println("Zeros: " + zeros);
     }
 }
+
+//Output:
+Positive Numbers: 3
+Negative Numbers: 3
+Zeros: 2//
