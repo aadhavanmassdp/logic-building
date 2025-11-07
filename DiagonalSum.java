@@ -22,3 +22,10 @@ public class DiagonalSum {
     }
 }
 
+//Matrix:
+/*1 2 3
+4 5 6
+7 8 9*/
+
+//Sum of diagonal elements: 25
+
